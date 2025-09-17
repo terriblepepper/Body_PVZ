@@ -1,0 +1,40 @@
+验证类型: keypoint
+验证时间: 2025-04-24 11:50:43
+测试数据文件相对路径: model/keypoint_classifier/keypoint_test2.csv
+测试数据文件绝对路径: F:\Projects\Body_PVZ\hand-gesture-recognition-mediapipe\model\keypoint_classifier\keypoint_test2.csv
+
+测试集样本统计:
+样本总量: 81
+各类别样本数量:
+  Open: 21 (25.9%)
+  Close: 20 (24.7%)
+  Hammer: 20 (24.7%)
+  OK: 20 (24.7%)
+
+整体评估指标:
+准确率(Accuracy): 1.0000
+召回率(Recall): 1.0000
+精确率(Precision): 1.0000
+F1分数: 1.0000
+
+各类别评估指标:
+类别 'Open' (样本数: 21):
+  精确率: 1.0000
+  召回率: 1.0000
+  F1分数: 1.0000
+
+类别 'Close' (样本数: 20):
+  精确率: 1.0000
+  召回率: 1.0000
+  F1分数: 1.0000
+
+类别 'Hammer' (样本数: 20):
+  精确率: 1.0000
+  召回率: 1.0000
+  F1分数: 1.0000
+
+类别 'OK' (样本数: 20):
+  精确率: 1.0000
+  召回率: 1.0000
+  F1分数: 1.0000
+

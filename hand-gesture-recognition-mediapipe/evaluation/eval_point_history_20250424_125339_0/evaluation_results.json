@@ -1,0 +1,50 @@
+{
+    "model_type": "point_history",
+    "csv_relative_path": "model/point_history_classifier/point_history_test.csv",
+    "csv_absolute_path": "F:\\Projects\\Body_PVZ\\hand-gesture-recognition-mediapipe\\model\\point_history_classifier\\point_history_test.csv",
+    "sample_total": 108,
+    "sample_counts_by_class": {
+        "HammerDown": 20,
+        "HammerUp": 20,
+        "Stop": 20,
+        "clockwise": 20,
+        "counterclockwise": 28
+    },
+    "accuracy": 0.9722222222222222,
+    "recall": 0.972857142857143,
+    "precision": 0.9718181818181819,
+    "f1_score": 0.9717116217116215,
+    "evaluation_time": "2025-04-24 12:53:39",
+    "class_metrics": {
+        "HammerDown": {
+            "sample_count": 20,
+            "precision": 0.9090909090909091,
+            "recall": 1.0,
+            "f1_score": 0.9523809523809523
+        },
+        "HammerUp": {
+            "sample_count": 20,
+            "precision": 1.0,
+            "recall": 0.95,
+            "f1_score": 0.9743589743589743
+        },
+        "Stop": {
+            "sample_count": 20,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0
+        },
+        "clockwise": {
+            "sample_count": 20,
+            "precision": 0.95,
+            "recall": 0.95,
+            "f1_score": 0.95
+        },
+        "counterclockwise": {
+            "sample_count": 28,
+            "precision": 1.0,
+            "recall": 0.9642857142857143,
+            "f1_score": 0.9818181818181818
+        }
+    }
+}

@@ -1,0 +1,110 @@
+﻿  Generate moc_predefs.h
+F:\Program Files (x86)\Microsoft Visual Studio\2022\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(254,5): warning MSB8064: 项“debug\moc_predefs.h.cbt”的自定义生成成功，但指定的依赖项“f:\projects\body_pvz\pvz-master\debug\moc_predefs.h.cbt”不存在。这可能会导致增量生成无法正常工作。
+   Qt/MSBuild: 3.3.1.1
+   Qt: 5.14.2
+  The vcpkg manifest was disabled, but we found a manifest file in F:\Projects\Body_PVZ\PVZ-master\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  apolozombie.cpp
+  BowlingNut.cpp
+  CaiWen.cpp
+  CardSelectionDialog.cpp
+  cleopatrazombie.cpp
+  CustomButton.cpp
+  flagzombie.cpp
+  FumeShroom.cpp
+  gargantuarzombie.cpp
+  GatlingPea.cpp
+  gesturemousethread.cpp
+  GloomShroom.cpp
+  hammer.cpp
+  HelpWidget.cpp
+  icetrackerzombie.cpp
+  Jalapeno.cpp
+  Mainwindow.cpp
+  adventureMode.cpp
+  basiczombie.cpp
+  bucketzombie.cpp
+  card.cpp
+  cherry.cpp
+  conezombie.cpp
+  footballzombie.cpp
+  gameIndex.cpp
+  gameSettings.cpp
+  gamingMenu.cpp
+  highprecesionQtimer.cpp
+F:\Projects\Body_PVZ\PVZ-master\Mainwindow.cpp(36,42): warning C4100: 'event': 未引用的参数
+F:\Projects\Body_PVZ\PVZ-master\hammer.cpp(49,56): warning C4100: 'atkidx': 未引用的参数
+  loading.cpp
+  main.cpp
+  map.cpp
+  mower.cpp
+  other.cpp
+  pea.cpp
+  peashot.cpp
+  pharaohzombie.cpp
+  plant.cpp
+  pot.cpp
+  potato.cpp
+  DoublePea.cpp
+  PuffShroom.cpp
+  puzzleMode.cpp
+  pyramidzombie.cpp
+  screenzombie.cpp
+  shop.cpp
+  shovel.cpp
+  smallBubble.cpp
+  smallgameMode.cpp
+  smallzombie.cpp
+  snowpea.cpp
+  startpage.cpp
+  sun.cpp
+  sunflower.cpp
+  SunShroom.cpp
+F:\Projects\Body_PVZ\PVZ-master\loading.cpp(41,39): warning C4100: 'event': 未引用的参数
+  survivalMode.cpp
+  Torchwood.cpp
+  TwinSunflower.cpp
+  wallnut.cpp
+  yetizombie.cpp
+  zombie.cpp
+  handgesture_receiver.cpp
+F:\Projects\Body_PVZ\PVZ-master\smallBubble.cpp(8,43): warning C4100: 'flag': 未引用的参数
+F:\Projects\Body_PVZ\PVZ-master\startpage.cpp(418,41): warning C4100: 'event': 未引用的参数
+  qrc_configs.cpp
+  qrc_images2.cpp
+  qrc_images.cpp
+  qrc_sound.cpp
+  moc_HelpWidget.cpp
+  moc_Mainwindow.cpp
+  moc_adventureMode.cpp
+  moc_CaiWen.cpp
+  moc_CardSelectionDialog.cpp
+  moc_cherry.cpp
+  moc_CustomButton.cpp
+  moc_FumeShroom.cpp
+  moc_gameSettings.cpp
+  moc_gamingMenu.cpp
+  moc_highprecesionQtimer.cpp
+  moc_loading.cpp
+  moc_GatlingPea.cpp
+  moc_GloomShroom.cpp
+  moc_gesturemousethread.cpp
+  moc_handgesture_receiver.cpp
+  moc_Jalapeno.cpp
+  moc_pea.cpp
+  moc_peashot.cpp
+  moc_potato.cpp
+  moc_DoublePea.cpp
+  moc_PuffShroom.cpp
+  moc_puzzleMode.cpp
+  moc_shop.cpp
+  moc_shovel.cpp
+  moc_smallgameMode.cpp
+  moc_snowpea.cpp
+  moc_startpage.cpp
+  moc_sun.cpp
+  moc_survivalMode.cpp
+  moc_SunShroom.cpp
+  moc_Torchwood.cpp
+  pvz.vcxproj -> F:\Projects\Body_PVZ\PVZ-master\debug\pvz.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

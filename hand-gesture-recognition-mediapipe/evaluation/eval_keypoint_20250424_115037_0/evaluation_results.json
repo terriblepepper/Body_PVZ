@@ -1,0 +1,43 @@
+{
+    "model_type": "keypoint",
+    "csv_relative_path": "model/keypoint_classifier/keypoint_test.csv",
+    "csv_absolute_path": "F:\\Projects\\Body_PVZ\\hand-gesture-recognition-mediapipe\\model\\keypoint_classifier\\keypoint_test.csv",
+    "sample_total": 80,
+    "sample_counts_by_class": {
+        "Open": 20,
+        "Close": 20,
+        "Hammer": 20,
+        "OK": 20
+    },
+    "accuracy": 0.95,
+    "recall": 0.95,
+    "precision": 0.9545454545454546,
+    "f1_score": 0.9498746867167919,
+    "evaluation_time": "2025-04-24 11:50:37",
+    "class_metrics": {
+        "Open": {
+            "sample_count": 20,
+            "precision": 0.9090909090909091,
+            "recall": 1.0,
+            "f1_score": 0.9523809523809523
+        },
+        "Close": {
+            "sample_count": 20,
+            "precision": 1.0,
+            "recall": 0.9,
+            "f1_score": 0.9473684210526315
+        },
+        "Hammer": {
+            "sample_count": 20,
+            "precision": 0.9090909090909091,
+            "recall": 1.0,
+            "f1_score": 0.9523809523809523
+        },
+        "OK": {
+            "sample_count": 20,
+            "precision": 1.0,
+            "recall": 0.9,
+            "f1_score": 0.9473684210526315
+        }
+    }
+}

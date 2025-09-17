@@ -1,0 +1,46 @@
+验证类型: point_history
+验证时间: 2025-04-24 12:53:44
+测试数据文件相对路径: model/point_history_classifier/point_history_test2.csv
+测试数据文件绝对路径: F:\Projects\Body_PVZ\hand-gesture-recognition-mediapipe\model\point_history_classifier\point_history_test2.csv
+
+测试集样本统计:
+样本总量: 51
+各类别样本数量:
+  HammerDown: 11 (21.6%)
+  HammerUp: 10 (19.6%)
+  Stop: 10 (19.6%)
+  clockwise: 10 (19.6%)
+  counterclockwise: 10 (19.6%)
+
+整体评估指标:
+准确率(Accuracy): 0.9608
+召回率(Recall): 0.9618
+精确率(Precision): 0.9667
+F1分数: 0.9618
+
+各类别评估指标:
+类别 'HammerDown' (样本数: 11):
+  精确率: 1.0000
+  召回率: 0.9091
+  F1分数: 0.9524
+
+类别 'HammerUp' (样本数: 10):
+  精确率: 1.0000
+  召回率: 1.0000
+  F1分数: 1.0000
+
+类别 'Stop' (样本数: 10):
+  精确率: 0.8333
+  召回率: 1.0000
+  F1分数: 0.9091
+
+类别 'clockwise' (样本数: 10):
+  精确率: 1.0000
+  召回率: 0.9000
+  F1分数: 0.9474
+
+类别 'counterclockwise' (样本数: 10):
+  精确率: 1.0000
+  召回率: 1.0000
+  F1分数: 1.0000
+
